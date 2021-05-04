@@ -568,9 +568,9 @@ I'm looking forward to all we will accomplish together.
 
 <div class="team-left-bio" markdown="1">
 
-HI! I'm Li from Brooklyn, NYC. It wasn't until towards the end of college that I fell in love with coding and saw it as a potential career path. After that, I jumped into a programming bootcamp, and here I am today!
+HI! I'm Li from NYC. I fell in love with coding towards the end of college, jumped into a programming bootcamp right after, worked at a healthtech company for two years, and here I am today!
 
-Some things I enjoy: karaoke, Switch/PC/board games, DIY stuff, anime, kpop, crying on hikes because I've spent too much time indoors, and exploring the NYC food scene
+Some things I enjoy: karaoke, Switch/PC/board games, a good movie or series, struggling on hikes because I've spent too much time indoors, and exploring the NYC food scene
 
 </div>
 
